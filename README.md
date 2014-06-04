@@ -12,3 +12,5 @@ https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptua
 http://wiki.huihoo.com/wiki/JQuery_Fundamentals
 
 我们期望把技术翻译工作持续推进下去。
+
+翻译：百货购iOS团队、灰狐翻译小组
