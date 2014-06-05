@@ -19,26 +19,49 @@ http://wiki.huihoo.com/wiki/JQuery_Fundamentals
 
 
 Language Guide
+
 -The Basics (已领取)
+
 -Basic Operators （已领取）
+
 -Strings and Characters （未领取）
+
 -Collection Types（未领取）
+
 -Control Flow（未领取）
+
 -Functions（未领取）
+
 -Closures（未领取）
+
 -Enumerations（未领取）
+
 -Classes and Structures（未领取）
+
 -Properties（未领取）
+
 -Methods（未领取）
+
 -Subscripts（未领取）
+
 -Inheritance（未领取）
+
 -Initialization（未领取）
+
 -Deinitialization（未领取）
+
 -Automatic Reference Counting（未领取）
+
 -Optional Chaining（未领取）
+
 -Type Casting（未领取）
+
 -Nested Types（未领取）
+
 -Extensions（未领取）
+
 -Protocols（未领取）
+
 -Generics（未领取）
+
 -Advanced Operators（未领取）
