@@ -20,9 +20,9 @@ http://wiki.huihoo.com/wiki/JQuery_Fundamentals
 
 Language Guide
 
--The Basics (已领取)
+-The Basics (已完成)
 
--Basic Operators （已领取）
+-Basic Operators （已完成）
 
 -Strings and Characters （未领取）
 
